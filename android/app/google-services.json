@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "633100221769",
+    "project_id": "mehndy-430c1",
+    "storage_bucket": "mehndy-430c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633100221769:android:d78b83f8cc83463c1fee98",
+        "android_client_info": {
+          "package_name": "com.flutterflow.mehndy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633100221769-ef70q83ee7cte2mkr6pdm722ovdq87jm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.mehndy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "633100221769-nd35kdgd2r01uilm050qd3mimaeaadqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.mehndy",
+            "certificate_hash": "05d071dd6fb00cec8f0ae0a567788d4eecb60ad1"
+          }
+        },
+        {
+          "client_id": "633100221769-gpua637ldvcu9fjvv4vqdq82iaibkml1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPDy86Q55RrpJtR7QPju_jKFzaPfw0f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633100221769-gpua637ldvcu9fjvv4vqdq82iaibkml1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633100221769-5mq2q7umahg1sp4iu5dmb9d5elp5q151.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.mehndy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
